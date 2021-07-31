@@ -53,6 +53,7 @@ Evaluated performance over different clusters, different models have different p
 data cleaning and generate features and target accrdoing to threshold date
 
 ## Tableau
+put result into dashborads
 
 
 
